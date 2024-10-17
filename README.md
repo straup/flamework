@@ -12,6 +12,9 @@ application. These pieces are being added as the individual contributors
 find a need to in their personal projects. If you've written a missing
 piece of the puzzle, please send a pull-request.
 
+## Important
+
+This package is no longer maintained. See [sfomuseum/flamework](https://github.com/sfomuseum/flamework) for updates.
 
 ## Installation - As a base for a new project
 
